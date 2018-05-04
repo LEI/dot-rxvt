@@ -1,0 +1,12 @@
+---
+role:
+  pkg:
+    - rxvt-unicode
+    # - name: homebrew/x11/rxvt-unicode
+    #   os: ["darwin"]
+  link:
+    - "bin:.config/i3/bin"
+    - "config:.config/i3"
+    - "*.conf:.config/i3"
+    - ".Xresources.d:.Xresources.d"
+    - ".wallpaper:.wallpaper"
