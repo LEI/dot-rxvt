@@ -6,4 +6,4 @@ role:
     # - name: homebrew/x11/rxvt-unicode
     #   os: ["darwin"]
   link:
-    - "urxvt:.Xresources/urxvt"
+    - "urxvt:.Xresources.d"
