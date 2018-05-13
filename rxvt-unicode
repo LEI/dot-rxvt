@@ -23,5 +23,5 @@ URxvt.matcher.button: 1
 
 ! Font
 ! URxvt.font: xft:DejaVu Sans Mono:size=9
-URxvt.font: xft:Hack:size=10
+URxvt.font: xft:Hack:size=9
 URxvt.letterSpace: -1
